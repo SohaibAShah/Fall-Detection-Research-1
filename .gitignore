@@ -1,0 +1,12 @@
+# Ignore temporary and output directories
+CAMERA/
+saved_models/
+UP-Fall Dataset/
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
